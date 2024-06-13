@@ -1,0 +1,51 @@
+COMPANY,LSTM,GRU
+Asian Paints Ltd,0.1489,0.0364
+Britannia Industries Ltd,0.1504,0.1731
+Cipla Ltd,0.1295,0.1156
+Eicher Motors Ltd,0.0747,0.1043
+Nestle India Ltd,0.0844,0.1816
+Grasim Industries Ltd,0.1463,0.0612
+Hero MotoCorp Ltd,0.139,0.1221
+Hindalco Industries Ltd,0.4293,0.1178
+Hindustan Unilever Ltd,0.0914,0.0997
+ITC Ltd,0.0668,0.0633
+Larsen & Toubro Ltd,0.1132,0.2279
+Mahindra & Mahindra Ltd,0.1619,0.1143
+Reliance Industries Ltd,0.0744,0.0753
+Tata Consumer Products Ltd,0.1498,0.1755
+Tata Motors Ltd,0.1668,0.1313
+Tata Steel Ltd,0.1227,0.0783
+Wipro Ltd,101.372,0.0591
+Apollo Hospitals Enterprise Ltd,0.1334,0.0643
+Dr Reddys Laboratories Ltd,0.1563,0.2234
+Titan Company Ltd,0.197,0.1899
+State Bank of India,0.1047,0.0711
+Bharat Petroleum Corporation Ltd,0.1785,0.0859
+Kotak Mahindra Bank Ltd,0.0704,0.0931
+UPL Ltd,0.0684,0.0609
+Infosys Ltd,0.0803,0.0533
+Bajaj Finance Ltd,0.1031,0.1134
+Adani Enterprises Ltd,0.2866,0.1794
+Sun Pharmaceuticals Industries Ltd,17.1807,0.0558
+JSW Steel Ltd,0.2424,0.09
+HDFC Bank Ltd,0.0548,0.1105
+Tata Consultancy Services Ltd,0.1179,0.0989
+ICICI Bank Ltd,0.1092,0.0514
+Power Grid Corporation of India Ltd,0.2048,0.2099
+Maruti Suzuki India Ltd,0.0769,0.0503
+IndusInd Bank Ltd,0.0777,0.1662
+Axis Bank Ltd,0.0944,0.1881
+HCL Technologies Ltd,0.1719,0.0671
+Oil & Natural Gas Corpn Ltd,0.1039,0.1395
+NTPC Ltd,0.5953,0.142
+Coal India Ltd,0.1394,0.113
+Bharti Airtel Ltd,0.1212,0.0711
+Tech Mahindra Ltd,0.0956,0.1548
+LTIMindtree Ltd,0.0877,0.0682
+Divis Laboratories Ltd,0.1371,0.1153
+Adani Ports & Special Economic Zone Ltd,0.21,0.1262
+HDFC Life Insurance Company Ltd,0.1068,0.0958
+SBI Life Insurance Company Ltd,0.0765,0.1531
+UltraTech Cement Ltd,0.1122,0.1895
+Bajaj Auto Ltd,0.0959,0.1101
+Bajaj Finserv Ltd,0.0354,0.0422

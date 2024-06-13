@@ -1,0 +1,13 @@
+SECTOR,LSTM,GRU
+Consumer Durables,0.1729,0.1132
+FMCG,0.1086,0.1386
+Healthcare,0.1391,0.1296
+Automobile,0.1192,0.1054
+Construction,0.1239,0.1595
+Oil & Gas,0.124,0.1034
+Information Technologies,0.1107,0.0885
+Financial Services,0.0833,0.1085
+Chemical,0.0684,0.0609
+Power,0.4001,0.1759
+Telecommunication,0.1212,0.0711
+Services,0.21,0.1262
